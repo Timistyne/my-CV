@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+
+}
+.one{
+    height: 1000px;
+    width: 350px;
+    padding: 0px 20px 0px 0px;
+    margin-right: 5px;
+    float: left;
+    background-color: beige;
+}
+img{
+    height: 300px;
+    width:200px;
+    border-color:black; 
+    border-radius: 100%;
+    margin: 18px 0px 30px 20px;
+}
+header{
+    text-align: center;
+    font-size: 30px;
+    font-style: strong;
+    border-color: lightblue;
+    
+}
+.two{
+    background-color: lightblue;
+}
+p{
+    font-size: 20px;
+}
+
