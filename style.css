@@ -11,6 +11,7 @@ body{
     margin-right: 5px;
     float: left;
     background-color: beige;
+    border: 2px solid peru;
 }
 img{
     height: 300px;
